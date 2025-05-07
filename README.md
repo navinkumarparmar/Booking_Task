@@ -35,10 +35,9 @@ This project implements a backend REST API for a "Basic Activity Booking App" us
 ### 1. Clone the repository
 Clone the project repository to your local machine using the following command:
 ```bash
-git clone <repository_url>
-
+git clone https://github.com/navinkumarparmar/Booking_Task.git
 2. Navigate to the project directory
-cd <project_directory>
+cd Booking_Task
 
 3. Install dependencies
 npm install
